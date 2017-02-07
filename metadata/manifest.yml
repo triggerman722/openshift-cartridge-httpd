@@ -3,7 +3,7 @@ Cartridge-Short-Name: HTTPD
 Display-Name: HTTPD Cartridge
 Description: "A httpd cartridge for development use only."
 Version: '0.1'
-Source-Url: git@github.com:smarterclayton/openshift-go-cart.git
+Source-Url: git@github.com:misho-kr/openshift-cartridge-httpd.git
 License: "None"
 Vendor: Custom Cartridges Inc
 Cartridge-Version: 0.0.1
